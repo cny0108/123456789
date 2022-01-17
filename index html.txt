@@ -1,0 +1,48 @@
+﻿<html>
+<head>
+<title>首頁</title>
+
+<style>
+f {
+  font-size:25px
+}
+</style>
+
+</head>
+<body>
+
+<a href="2rd.html">先生SENSEI手作千層蛋糕</a>
+<a href="3rd.html">花樓FOLLOW COFFEE</a>
+<a href="4th.html">HALO 哈蘿格子</a>
+<a href="5th.html">心得</a>
+
+<table border="1">
+<tr>
+<th><f>圖片</f></th>
+<th><f>標題</f></th>
+<th><f>說明</f></th>
+</tr>
+
+<tr>
+<td><img src=".\image\001.jpg" width="400" height="300" ></td>
+<td align="center"><h3>【先生SENSEI小山園抹茶手作千層蛋糕。高雄限量美食】3小時完售還有IG超夯夢幻花牆！</h3></td>
+<td align="center">高雄新開幕夢幻手作千層蛋糕店－先生sensei，招牌小山園抹茶千層創下3小時完售驚人紀錄，
+配上成片夢幻又正點的乾燥花牆，療癒魅力擋不住呀～<br></td>
+</tr>
+
+<tr>
+<td><img src=".\image\002.jpg" width="400"height="300" ></td>
+<td align="center"><h3>【花樓FOLLOW COFFEE。台南美食】IG超人氣夢幻乾燥花天空～台南最美咖啡廳！</h3></td>
+<td align="center">在IG以夢幻漸層飲品搭配漫天乾燥花天空而爆紅的花樓咖啡Follow Coffee，將老戲院巧手改造，
+<br>小小騎樓就能營造出滿滿的春暖花意，讓人少女心無限噴發，說是台南最美咖啡廳也不為過！<br></tr>
+
+<tr>
+<td><img src=".\image\003.jpg" width="400"height="300" ></td>
+<td align="center"><h3>Mr.Sam山姆先生咖啡館</h3></td>
+<td align="center">花蓮最美童話屋－Mr.Sam山姆先生咖啡館，夢幻可愛建築未開幕先爆紅，好似電影魔戒哈比村，
+<br>彎曲波浪狀屋頂、綠色圓形大門搭配標示在樹幹上的門牌，每個角落都超好拍！附完整菜單～<br></tr>
+
+</table>
+
+</body>
+</html>
